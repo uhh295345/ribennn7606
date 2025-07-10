@@ -22,4 +22,4 @@ SEO布局方面，每个视频页面均附带文字说明（包括剧情简介�
 
 最后，运营团队会定期分析后台数据（跳出率、观看完成率、搜索关键词表现）并动态优化推荐逻辑。通过内容更新频率、SEO优化、用户社区互动和安全运营协同，网站能够稳定增长流量并增强品牌口碑。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/uhh295345/ribennn7606)</span>
